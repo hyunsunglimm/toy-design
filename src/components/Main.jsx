@@ -1,5 +1,5 @@
 import { agents } from "../data/agents";
-import AgentCard from "./agentCard";
+import AgentCard from "./AgentCard";
 import time from "/time.jpeg";
 import graph from "/graph.jpeg";
 
